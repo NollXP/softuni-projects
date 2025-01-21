@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Jyby2HUBYE=",
+  "success": true,
+  "projectFilePath": "D:\\Back-End Test Automation\\SoftUni All preps and exams\\Programing advanced\\ExamPrepTwo\\02-Fruits-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Иван Шопов\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Иван Шопов\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Иван Шопов\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
